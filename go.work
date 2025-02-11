@@ -3,4 +3,5 @@ go 1.23.4
 use (
 	01-mcp-client
 	02-use-it
+	03-use-it
 )
